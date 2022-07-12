@@ -1,0 +1,9 @@
+This is account management application code
+
+Author: Nagaraj Thangaraj
+
+1. Enter the bill amount
+
+2. Enter the participants
+
+3. Enter the % across the participants
