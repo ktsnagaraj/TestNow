@@ -7,3 +7,5 @@ Author: Nagaraj Thangaraj
 2. Enter the participants
 
 3. Enter the % across the participants
+
+4. Hidiing the last seen
