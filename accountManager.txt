@@ -11,3 +11,5 @@ Author: Nagaraj Thangaraj
 4. Hidiing the last seen
 
 5. Adding the audio call feature
+
+6. Changes Made
